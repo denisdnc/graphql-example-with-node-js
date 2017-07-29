@@ -1,1 +1,21 @@
-GraphQL simple query example
+# GraphQL simple query example in Node JS
+
+### instructions
+- clone repository
+- run "npm install"
+- run "node index.js"
+- access: http://localhost:3000/user
+- run query:
+
+{
+  findById(id: "1") {
+    id
+    name
+    city
+    weapons {
+      name
+      type
+    }
+  }
+}
+

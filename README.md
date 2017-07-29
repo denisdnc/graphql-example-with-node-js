@@ -1,0 +1,1 @@
+GraphQL simple query example

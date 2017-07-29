@@ -1,0 +1,17 @@
+[{
+  "id": "1",
+  "name": "Eddard Stark",
+  "city": "Winterfell",
+  "weapons": [{
+    "name": "Ice",
+    "type": "SWORD"
+  }]
+}, {
+  "id": "2",
+  "name": "Jon Snow",
+  "city": "Wall",
+  "weapons": [{
+    "name": "Longclaw",
+    "type": "SWORD"
+  }]
+}]
